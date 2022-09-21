@@ -1,3 +1,4 @@
 .vscode/settings.json
 Creational patterns/AbstractFactory.exe
 Creational patterns/Singleton_ThreadSafe.exe
+.vscode/tasks.json
